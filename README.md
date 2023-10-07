@@ -1,5 +1,5 @@
 #Python Data Analytics by Meta
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4ZQKF2SN99UY/CERTIFICATE_LANDING_PAGE~4ZQKF2SN99UY.jpeg" alt="Certificate of Python Data Analytics Course by Meta" >
+<img src="https://coursera-certificate-images.s3.amazonaws.com/4ZQKF2SN99UY" alt="Certificate of Python Data Analytics Course by Meta" >
 
 Verify: https://coursera.org/verify/4ZQKF2SN99UY
 
